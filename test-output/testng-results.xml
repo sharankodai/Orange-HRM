@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63811" started-at="2023-01-31T08:09:23 IST" finished-at="2023-01-31T08:10:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63811" started-at="2023-01-31T08:09:23 IST" finished-at="2023-01-31T08:10:27 IST">
+      <class name="com.login.SDP_OrangeHRM.OrangeHrm">
+        <test-method status="PASS" signature="browser_Launch()[pri:0, instance:com.login.SDP_OrangeHRM.OrangeHrm@371a67ec]" name="browser_Launch" is-config="true" duration-ms="44738" started-at="2023-01-31T08:09:23 IST" finished-at="2023-01-31T08:10:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_Launch -->
+        <test-method status="PASS" signature="url_Launch()[pri:0, instance:com.login.SDP_OrangeHRM.OrangeHrm@371a67ec]" name="url_Launch" is-config="true" duration-ms="3321" started-at="2023-01-31T08:10:08 IST" finished-at="2023-01-31T08:10:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url_Launch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.login.SDP_OrangeHRM.OrangeHrm@371a67ec]" name="login" duration-ms="15680" started-at="2023-01-31T08:10:11 IST" finished-at="2023-01-31T08:10:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.login.SDP_OrangeHRM.OrangeHrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
